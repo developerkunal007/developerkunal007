@@ -9,9 +9,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50"/></a>
+  <a href="https://linkedin.com/in/devloperkunal"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50"/></a>
   <a href="mailto:kunalsharma20032005@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50"/></a>
-  <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="50"/></a>
+  <a href="https://kunal.codes/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="50"/></a>
 </p>
 
 ---
