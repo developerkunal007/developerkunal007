@@ -61,7 +61,7 @@
 
 ---
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developerkunal007&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=developerkunal007&theme=react-dark)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalxd007&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=kunalxd007&theme=react-dark)
 
 ---
 
